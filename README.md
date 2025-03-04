@@ -9,5 +9,5 @@ Esta actividad tiene como objetivo aprender a utilizar GitHub Pages para alojar 
 El repositorio incluye un archivo `index.html` con un mensaje de bienvenida: **"Hola, Mundo!!"**.
 
 ## Accede a la página web a través del siguiente enlace:
-🔗 [Mi Página Web]([https://tuusuario.github.io/mi-pagina-web/](https://marlyngiselle.github.io/giselledacosta-mit.github.io/)) 
+🔗 [https://tuusuario.github.io/mi-pagina-web/](https://marlyngiselle.github.io/giselledacosta-mit.github.io/
 
